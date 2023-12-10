@@ -1,0 +1,12 @@
+/Users/klarr/Projects/BookingApp.Core/BookingApp.Core/bin/Debug/net7.0/BookingApp.Core.deps.json
+/Users/klarr/Projects/BookingApp.Core/BookingApp.Core/bin/Debug/net7.0/BookingApp.Core.dll
+/Users/klarr/Projects/BookingApp.Core/BookingApp.Core/bin/Debug/net7.0/BookingApp.Core.pdb
+/Users/klarr/Projects/BookingApp.Core/BookingApp.Core/obj/Debug/net7.0/BookingApp.Core.csproj.AssemblyReference.cache
+/Users/klarr/Projects/BookingApp.Core/BookingApp.Core/obj/Debug/net7.0/BookingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klarr/Projects/BookingApp.Core/BookingApp.Core/obj/Debug/net7.0/BookingApp.Core.AssemblyInfoInputs.cache
+/Users/klarr/Projects/BookingApp.Core/BookingApp.Core/obj/Debug/net7.0/BookingApp.Core.AssemblyInfo.cs
+/Users/klarr/Projects/BookingApp.Core/BookingApp.Core/obj/Debug/net7.0/BookingApp.Core.csproj.CoreCompileInputs.cache
+/Users/klarr/Projects/BookingApp.Core/BookingApp.Core/obj/Debug/net7.0/BookingApp.Core.dll
+/Users/klarr/Projects/BookingApp.Core/BookingApp.Core/obj/Debug/net7.0/refint/BookingApp.Core.dll
+/Users/klarr/Projects/BookingApp.Core/BookingApp.Core/obj/Debug/net7.0/BookingApp.Core.pdb
+/Users/klarr/Projects/BookingApp.Core/BookingApp.Core/obj/Debug/net7.0/ref/BookingApp.Core.dll

@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/klarr/Projects/BookingApp.Core/BookingApp.Core.Tests/BookingApp.Core.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/klarr/Projects/BookingApp.Core/BookingApp.Core.Tests/BookingApp.Core.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/klarr/Projects/BookingApp.Core/BookingApp.Core.Tests/BookingApp.Core.Tests.csproj",
+        "projectName": "BookingApp.Core.Tests",
+        "projectPath": "/Users/klarr/Projects/BookingApp.Core/BookingApp.Core.Tests/BookingApp.Core.Tests.csproj",
+        "packagesPath": "/Users/klarr/.nuget/packages/",
+        "outputPath": "/Users/klarr/Projects/BookingApp.Core/BookingApp.Core.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/klarr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/klarr/Projects/BookingApp.Core/BookingApp.Core/BookingApp.Core.csproj": {
+                "projectPath": "/Users/klarr/Projects/BookingApp.Core/BookingApp.Core/BookingApp.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/klarr/Projects/BookingApp.Core/BookingApp.Core/BookingApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/klarr/Projects/BookingApp.Core/BookingApp.Core/BookingApp.Core.csproj",
+        "projectName": "BookingApp.Core",
+        "projectPath": "/Users/klarr/Projects/BookingApp.Core/BookingApp.Core/BookingApp.Core.csproj",
+        "packagesPath": "/Users/klarr/.nuget/packages/",
+        "outputPath": "/Users/klarr/Projects/BookingApp.Core/BookingApp.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/klarr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

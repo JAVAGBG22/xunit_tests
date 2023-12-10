@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{AAA8AD21-28C4-48E5-B785-510D6A4AD2D4}|Default">
+  <MonoDevelop.Ide.ItemProperties.BookingApp.Core.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BookingApp.Core FirstBuild="True" />
+</Properties>
