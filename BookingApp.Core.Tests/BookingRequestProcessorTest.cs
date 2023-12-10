@@ -17,6 +17,8 @@ namespace BookingApp.Core.Tests
 			_processor = new BookingRequestProcessor();
 		}
 
+
+		// test
 		[Fact]
 		public void Should_Return_Booking_Response_With_Details()
 		{
